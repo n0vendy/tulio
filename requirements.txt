@@ -1,0 +1,27 @@
+# AI and ML
+anthropic>=0.25.0
+sentence-transformers>=2.2.0
+
+# Vector Database  
+chromadb>=0.4.0
+
+# GUI for Desktop Pet
+PyQt5>=5.15.0
+
+# Terminal Interface
+rich>=13.0.0
+click>=8.1.0
+
+# File Processing
+pydantic>=2.0.0
+pyyaml>=6.0
+python-dotenv>=1.0.0
+
+# File System Monitoring
+watchdog>=3.0.0
+
+# HTTP Requests (weather API)
+requests>=2.28.0
+
+# Core dependencies
+numpy>=1.24.0
