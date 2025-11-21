@@ -5,7 +5,7 @@
 tulio is a privacy-conscious AI assistant that indexes your local files and provides intelligent, context-aware responses using Claude-- with a cute animated desktop pet that reacts to your interactions! you can ask it about your files, have it organize your directory, ask
 it about the weather, etc!
 
-tulio is fully functional but still a wip :) demo coming soon!
+tulio is fully functional but still a wip :) demo: https://www.tiktok.com/@n0vendy/video/7574986820836986125
 
 ### note on privacy!
 
