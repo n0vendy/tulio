@@ -1,6 +1,6 @@
 # tulio
 
-**a personal AI assistant with privacy-aware RAG and an adorable desktop companion**
+**a personal AI assistant with privacy-aware RAG and a cute desktop companion**
 
 tulio is a privacy-conscious AI assistant that indexes your local files and provides intelligent, context-aware responses using Claude-- with a cute animated desktop pet that reacts to your interactions! you can ask it about your files, have it organize your directory, ask
 it about the weather, etc!
@@ -41,6 +41,10 @@ you'll need an anthropic api key!
 - `/cleanup` - remove excluded files from database
 - `/index` - manually trigger indexing
 - `/pet` - toggle desktop pet
+
+## known bugs
+- sometimes reindexes files even if no changes are made
+- will get caught in a thinking loop if asked to open a url
 
 ## thank u for checking it out!
 
